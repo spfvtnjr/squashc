@@ -1,0 +1,2 @@
+# squashc
+learning to squash
